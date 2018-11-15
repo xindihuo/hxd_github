@@ -11,6 +11,10 @@ class TestJenkins:
         print("jenkins3")
         assert 1
 
+    def test_jenkins5(self):
+        print("jenkins5")
+        assert 1
+
     def test_jenkins4(self):
         print("jenkins4")
         assert 0
